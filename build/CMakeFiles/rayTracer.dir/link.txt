@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/rayTracer.dir/src/color.cpp.o CMakeFiles/rayTracer.dir/src/main.cpp.o -o ../bin/Debug/rayTracer 

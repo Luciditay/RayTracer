@@ -1,0 +1,3 @@
+/home/luciditay/Documents/Perso/RayTracer/build/CMakeFiles/rayTracer.dir
+/home/luciditay/Documents/Perso/RayTracer/build/CMakeFiles/edit_cache.dir
+/home/luciditay/Documents/Perso/RayTracer/build/CMakeFiles/rebuild_cache.dir

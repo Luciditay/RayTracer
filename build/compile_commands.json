@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/luciditay/Documents/Perso/RayTracer/build",
+  "command": "/usr/bin/g++  -I/home/luciditay/Documents/Perso/RayTracer/src -g -Werror -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/rayTracer.dir/src/color.cpp.o -c /home/luciditay/Documents/Perso/RayTracer/src/color.cpp",
+  "file": "/home/luciditay/Documents/Perso/RayTracer/src/color.cpp"
+},
+{
+  "directory": "/home/luciditay/Documents/Perso/RayTracer/build",
+  "command": "/usr/bin/g++  -I/home/luciditay/Documents/Perso/RayTracer/src -g -Werror -Wall -Wextra -Wpedantic -pedantic-errors -std=gnu++17 -o CMakeFiles/rayTracer.dir/src/main.cpp.o -c /home/luciditay/Documents/Perso/RayTracer/src/main.cpp",
+  "file": "/home/luciditay/Documents/Perso/RayTracer/src/main.cpp"
+}
+]
